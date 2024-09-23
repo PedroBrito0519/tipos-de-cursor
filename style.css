@@ -1,0 +1,24 @@
+h1{
+   cursor: progress; /* fica uma barrinha de proressao porem pode interafir */
+    cursor: text; /* Fica uma barrinha como estivesse ecrevendo */
+    cursor: wait; /* carregamento de tela que n da para interagir */
+    cursor: grab;   /* maozinha */
+    cursor: help;  /* ponto te interrogaçao do lado do cursor*/
+    cursor: pointer;
+    cursor: crosshair; /* fica uma mira*/
+    cursor: not-allowed; /* fica com uma marca de proibido */
+    cursor: zoom-in; /* fica uma lupa */
+    cursor: grabbing; /* maozinha fechada */
+    cursor: default; /* padrao */
+    cursor: context-menu; /* padrao com um menuzinho do lado */
+    cursor: cell; /* sinal de mais */
+    cursor: vertical-text; /* texto vertical */
+    cursor: alias; /* indica um atalho */
+    cursor: copy; /* para indicar copuia */
+    cursor: move; /* indica que o item pode ser movido */
+    cursor: no-drop; /* indica que n da para pegar */
+    cursor: all-scroll;
+    cursor: col-resize;
+    cursor: row-resize;
+    cursor: url(5697446.png), default; /* vira uma imagem */
+}
